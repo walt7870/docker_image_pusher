@@ -1,3 +1,2 @@
 minio
-databus-server
 
