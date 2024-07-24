@@ -1,1 +1,12 @@
-nginx
+apitable/databus-server 
+apitable/backend-server 
+apitable/room-server
+redis
+mysql
+gateway
+rabbitmq
+apitable/imageproxy-server
+minio/minio
+apitable/init-db
+apitable/web-server
+apitable/init-appdata
